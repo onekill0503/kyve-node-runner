@@ -1,0 +1,1 @@
+./kyve-solana-linux --name "<your validator name>" -p 4 -m "<kelpr wallet secret phase>" -k "./arweave.json" -s <stake amount>
